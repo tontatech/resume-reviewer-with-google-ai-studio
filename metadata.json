@@ -1,0 +1,8 @@
+{
+  "name": "Resume Reviewer",
+  "description": "An intelligent resume reviewer that analyses resumes against job descriptions using the XYZ formula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
